@@ -7,4 +7,4 @@
 - CSS
 - and More!
 
-- Owner of **[FatCat Hosting](https://discord.gg/hNaR7Ep)
+- Owner of [**FatCat Hosting**](https://discord.gg/hNaR7Ep)
