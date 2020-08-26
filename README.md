@@ -1,1 +1,1 @@
-## Hey, I'm INfoUpgraders. I am a full-stack web developer, software engineer, and graphic designer.
+<h1>Hey, I'm <span style="color:#6da860;">INfoUpgraders</span>. I am a <span style="color:#6da860;">full-stack</span> web developer, <span style="color:#6da860;">software engineer</span>, and <span style="color:#6da860;">graphic designer</span>.</h1>
