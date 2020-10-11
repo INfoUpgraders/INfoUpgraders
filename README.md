@@ -24,7 +24,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-23272A?style=flat&logo=flask">
   <img alt="Django" src="https://img.shields.io/badge/-Django-23272A?style=flat&logo=django">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-23272A?style=flat&logo=bootstrap">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-23272A?style=flat&logo=tailwind-css">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-23272A?style=flat&logo=tailwind-css"><br>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
