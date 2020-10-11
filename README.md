@@ -2,10 +2,7 @@
 
 <p align="left">
   <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoupgraders&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
-</p>
-
-<p align="right">
-  <img width="25%" alt="My Logo" src="https://cdn.discordapp.com/attachments/569517548131844106/764930597860147250/info.png">
+    <img width="30%" alt="My Logo" src="https://cdn.discordapp.com/attachments/569517548131844106/764930597860147250/info.png">
 </p>
 
 <h3 align="center">Languages I know<br></h3>
