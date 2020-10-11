@@ -2,7 +2,9 @@
 
 <p align="center">
   <img width="30%" alt="My Logo" src="https://cdn.discordapp.com/attachments/569517548131844106/764930597860147250/info.png">
-</p><br>
+  
+    <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoupgraders&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
+</p>
 
 <h3 align="center">Languages I know<br></h3>
 
@@ -42,5 +44,5 @@
 </p><br>
 
 <p align="center">
-  <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoupgraders&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
+
 </p>
