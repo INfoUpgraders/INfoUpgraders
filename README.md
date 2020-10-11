@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="30%" alt="My Logo" src="https://cdn.discordapp.com/attachments/569517548131844106/764930597860147250/info.png">
-</p>
+</p><br>
 
 <h3 align="center">Languages I know<br></h3>
 
@@ -39,7 +39,7 @@
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-23272A?style=flat&logo=adobe-photoshop">
   <img alt="Adobe Illustator" src="https://img.shields.io/badge/-Adobe Illustrator-23272A?style=flat&logo=adobe-illustrator">
-</p>
+</p><br>
 
 <p align="center">
   <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoupgraders&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
