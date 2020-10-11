@@ -5,4 +5,12 @@
 <h3 align="center">Languages I Utilize<br></h3>
 
 ![Python](https://img.shields.io/badge/-Python-23272A?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-23272A?style=flat&logo=html)
+![HTML5](https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-23272A?style=flat&logo=laravel)
+![SQL](https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=postgresql)
+![C#](https://img.shields.io/badge/-%23-23272A?style=flat&logo=c-sharp)
+![Go](https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=rust)
