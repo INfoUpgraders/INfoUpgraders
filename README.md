@@ -15,7 +15,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
   <img alt="Go" src="https://img.shields.io/badge/-Go-23272A?style=flat&logo=go">
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-23272A?style=flat&logo=rust">
 </p>
 
 <h3 align="center">Frameworks & Technologies I utilize<br></h3>
