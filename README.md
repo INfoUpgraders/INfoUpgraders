@@ -58,8 +58,8 @@
 <h3 align="center">Projects for 2021<br></h3>
 
 <p align="center">
-  <p>Make a branch of the Pterodactyl panel & wings to fix all of the issues, add more features, and have a better frontend.</p>
-  <p>Develop multiple versatile & intricate open-source applications.</p>
+  Make a branch of the Pterodactyl panel & wings to fix all of the issues, add more features, and have a better frontend.<br>
+  Develop multiple versatile & intricate open-source applications.
 </p><br>
 
 <p align="center">
