@@ -13,8 +13,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-23272A?style=flat&logo=rust">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-23272A?style=flat&logo=c-sharp">
-  <img alt="Go" src="https://img.shields.io/badge/-Go-23272A?style=flat&logo=go">
 </p>
 
 <h3 align="center">Frameworks & Technologies I utilize<br></h3>
@@ -39,6 +39,27 @@
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-23272A?style=flat&logo=apache">
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-23272A?style=flat&logo=adobe-photoshop">
   <img alt="Adobe Illustator" src="https://img.shields.io/badge/-Adobe Illustrator-23272A?style=flat&logo=adobe-illustrator">
+</p><br>
+
+<h3 align="center">Languages I'm currently learning<br></h3>
+
+<p align="center">
+  <li>More Rust & C#</li>
+  <li>C++</li>
+  <li>C</li>
+  <li>Ruby</li>
+  <li>Go</li>
+  <li>Cython</li>
+  <li>Scala</li>
+  <li>TypeScript</li>
+  <li>Swift & Kotlin</li>
+</p><br>
+
+<h3 align="center">Projects for 2021<br></h3>
+
+<p align="center">
+  <li>Make a branch of the Pterodactyl panel & wings to fix all of the issues, add more features, and have a better frontend.</li>
+  <li>Develop multiple versatile & intricate open-source applications.</li>
 </p><br>
 
 <p align="center">
