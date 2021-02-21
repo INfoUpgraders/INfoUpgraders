@@ -44,15 +44,15 @@
 <h3 align="center">Languages I'm currently learning<br></h3>
 
 <p align="center">
-  <p>More Rust & C#</p>
-  <p>C++</p>
-  <p>C</p>
-  <p>Ruby</p>
-  <p>Go</p>
-  <p>Cython</p>
-  <p>Scala</p>
-  <p>TypeScript</p>
-  <p>Swift & Kotlin</p>
+  More Rust & C#<br><br>
+  C++<br><br>
+  C<br><br>
+  Ruby<br><br>
+  Go<<br><br>
+  Cython<br><br>
+  Scala<br><br>
+  TypeScript<br><br>
+  Swift & Kotlin<br><br>
 </p><br>
 
 <h3 align="center">Projects for 2021<br></h3>
