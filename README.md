@@ -44,7 +44,7 @@
 <h3 align="center">Languages I'm currently learning<br></h3>
 
 <p align="center">
-  More Rust & C#, C++, C, Ruby, Go, Cython, <br>Scala, TypeScript, Swift & Kotlin
+  <bold>More Rust & C#, C++, C, Ruby, Go, Cython, <br>Scala, TypeScript, Swift & Kotlin</bold>
 </p><br>
 
 <h3 align="center">Projects for 2021<br></h3>
