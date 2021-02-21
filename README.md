@@ -44,22 +44,22 @@
 <h3 align="center">Languages I'm currently learning<br></h3>
 
 <p align="center">
-  <li>More Rust & C#</li>
-  <li>C++</li>
-  <li>C</li>
-  <li>Ruby</li>
-  <li>Go</li>
-  <li>Cython</li>
-  <li>Scala</li>
-  <li>TypeScript</li>
-  <li>Swift & Kotlin</li>
+  <p>More Rust & C#</p>
+  <p>C++</p>
+  <p>C</p>
+  <p>Ruby</p>
+  <p>Go</p>
+  <p>Cython</p>
+  <p>Scala</p>
+  <p>TypeScript</p>
+  <p>Swift & Kotlin</p>
 </p><br>
 
 <h3 align="center">Projects for 2021<br></h3>
 
 <p align="center">
-  <li>Make a branch of the Pterodactyl panel & wings to fix all of the issues, add more features, and have a better frontend.</li>
-  <li>Develop multiple versatile & intricate open-source applications.</li>
+  <p>Make a branch of the Pterodactyl panel & wings to fix all of the issues, add more features, and have a better frontend.</p>
+  <p>Develop multiple versatile & intricate open-source applications.</p>
 </p><br>
 
 <p align="center">
